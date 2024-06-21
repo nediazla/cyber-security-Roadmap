@@ -1,0 +1,31 @@
+# iCloud
+
+iCloud es un servicio de almacenamiento y computación en la nube proporcionado por Apple Inc. Permite a los usuarios almacenar datos, como documentos, fotos y música, en servidores remotos y sincronizarlos entre sus dispositivos Apple, incluidos iPhones, iPads y MacBooks.
+
+## Características y Beneficios
+
+iCloud ofrece una variedad de funciones y beneficios que mejoran la experiencia del usuario y mejoran la seguridad. A continuación se detallan algunos aspectos clave del servicio:
+
+- **Almacenamiento en iCloud**: los usuarios reciben 5 GB de espacio de almacenamiento gratuito en iCloud y pueden actualizar a planes superiores (50 GB, 200 GB o 2 TB) por un costo adicional. Este almacenamiento se puede utilizar para documentos, fotos, vídeos, copias de seguridad y datos de aplicaciones.
+
+- **Copia de seguridad de iCloud**: iCloud realiza automáticamente una copia de seguridad de los datos esenciales de los dispositivos iOS cuando están conectados a Wi-Fi y cargándose. Esto incluye datos de aplicaciones, configuraciones del dispositivo, mensajes y mucho más. En caso de pérdida o reemplazo del dispositivo, los usuarios pueden restaurar la copia de seguridad en el nuevo dispositivo.
+
+- **Fotos de iCloud**: esta función permite a los usuarios cargar y almacenar automáticamente sus fotos y videos en iCloud, haciéndolos accesibles en todos sus dispositivos. iCloud también sincroniza las ediciones, eliminaciones y la organización de álbumes, lo que garantiza que la biblioteca de fotos se mantenga actualizada en todos los dispositivos.
+
+- **Buscar mi**: este servicio ayuda a los usuarios a localizar sus dispositivos Apple perdidos utilizando su cuenta de iCloud en otro dispositivo. También ofrece funciones como bloqueo y borrado remoto del dispositivo, lo que garantiza que los datos del usuario permanezcan seguros incluso si el dispositivo no se puede recuperar.
+
+- **iCloud Drive**: los usuarios pueden almacenar documentos y archivos de varios tipos en iCloud Drive, haciéndolos accesibles desde todos los dispositivos. Esta función está integrada en Mac Finder y también se puede acceder a ella a través de la aplicación Archivos en dispositivos iOS o el sitio web de iCloud.
+
+- **Sincronización de datos específica de la aplicación**: muchas aplicaciones pueden utilizar iCloud para sincronizar sus datos entre dispositivos. Esto permite una experiencia perfecta, garantizando que los usuarios puedan continuar donde lo dejaron, independientemente del dispositivo que estén utilizando.
+
+## Seguridad
+
+Apple se toma muy en serio la seguridad de iCloud y ha implementado múltiples capas de protección para mantener seguros los datos de los usuarios. Algunas de estas medidas incluyen:
+
+- **Cifrado**: los datos almacenados en iCloud se cifran durante el tránsito y en el servidor. Las fotos, documentos y otros datos están protegidos mediante un cifrado AES de 128 bits mínimo.
+- **Autenticación de dos factores (2FA)**: los usuarios pueden habilitar 2FA para su ID de Apple para agregar una capa adicional de seguridad. Esto requiere un paso de verificación adicional (como ingresar un código recibido en un dispositivo confiable) al iniciar sesión en iCloud o cualquier servicio de Apple.
+- **Tokens seguros**: Apple utiliza tokens seguros para la autenticación, lo que significa que su contraseña de iCloud no se almacena en sus dispositivos ni en los servidores de Apple.
+
+En general, iCloud es una forma cómoda y segura para que los usuarios de dispositivos Apple almacenen y sincronicen sus datos entre dispositivos. Este servicio basado en la nube ofrece numerosas funciones para garantizar un acceso perfecto y una protección mejorada de los datos del usuario.
+
+- [Todo sobre iCloud](https://www.intego.com/mac-security-blog/everything-you-can-do-with-icloud-the-complete-guide/)
